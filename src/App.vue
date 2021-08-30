@@ -54,7 +54,7 @@
 
       <v-app-bar-nav-icon @click="drawer = !drawer"></v-app-bar-nav-icon>
 
-      <v-app-bar-title>Your List</v-app-bar-title>
+      <v-toolbar-title>Checklist</v-toolbar-title>
 
       <v-spacer></v-spacer>
 
